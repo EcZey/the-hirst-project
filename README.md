@@ -12,3 +12,7 @@ This project demonstrates the use of Python's `turtle` graphics library to draw 
 - **Random Colors**: Each dot is colored randomly from a predefined list of RGB values.
 - **Grid Layout**: Dots are arranged in rows and columns to form a grid pattern.
 
+## Requirements
+
+- Python 3.12
+- `turtle` module (included with Python's standard library)
